@@ -1,0 +1,83 @@
+Andhra Pradesh		------		Eenadu
+(Amaravati)
+
+Arunachal Pradesh		------		Arunachal TIMES
+(Itanagar)
+
+Assam			------		The Assam Tribune
+(Dispur)
+
+Bihar			------		Dainik Jagran
+(Patna)
+
+Chhattisgarh		------		Haribhoomi
+(Raipur)
+
+Goa			------		The Navhind Times
+(Panaji)
+
+Gujarat			------		Gujarat Samachar
+(Gandhinagar)
+
+Haryana			------		Dainik Jagran
+(Chandigarh)
+
+Himachal Pradesh		------		Divya Himachal
+(Shimla)
+
+Jharkhand		------		Dainik Jagran
+(Ranchi)
+
+Karnataka		------		Vijaya Karnataka
+(Bangalore)
+
+Kerala			------		Malayala Manorama
+(Thiruvananthapuram)
+
+Madhya Pradesh		-------		Dainik Bhaskar
+(Bhopal)
+
+Maharashtra		------		Daily Sakal
+(Mumbai)
+
+Manipur			------		The Sangai Express
+(Imphal)
+
+Meghalaya		------		Meghalaya Guardian
+(Shillong)
+
+Mizoram			------		Vanglaini
+(Aizawl)
+
+Nagaland			------		Nagaland Post
+(Kohima)
+
+Odisha			------		Dharitri
+(Bhubaneshwar)
+
+Punjab			------		Ajit
+(Chandigarh)
+
+Rajasthan			------		Rajasthan Patrika
+(Jaipur)
+
+Sikkim			------		Sikkim Express
+(Gangtok)
+
+Tamil Nadu		------		Daily Thanthi
+(Chennai)
+
+Telangana		------		Eenadu
+(Hyderabad)
+
+Tripura			------		Dainik Sambad
+(Agartala)
+
+Uttarakhand		------		Amar Ujala
+(Dehradun)
+
+Uttar Pradesh		------		Dainik Jagran
+(Lucknow)
+
+West Bengal		------		Ananda Bazar Patrika
+(Kolkata)
